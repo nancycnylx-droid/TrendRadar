@@ -256,3 +256,48 @@
 
 # 产业政策
 生产力
+
+
+# ═══════════════════════════════════════════════════════════════
+#                     SEO & 数字营销
+# ═══════════════════════════════════════════════════════════════
+
+[SEO]
+/\bSEO\b|搜索引擎优化|谷歌排名|网站优化|搜索排名/ => SEO
+/\bGoogle\s?Search\b|谷歌搜索|搜索算法/ => 谷歌搜索
+/网站收录|索引|抓取|爬虫|站点地图/ => 收录与抓取
+/核心网页指标|\bCore Web Vitals\b|\bPageSpeed\b|\bLCP\b|\bFID\b|\bINP\b|\bCLS\b/ => 页面体验
+/\bE-E-A-T\b|\bEAT\b|内容质量|权威性/ => 内容质量
+/外链|反向链接|\bbacklink\b|链接建设/ => 外链策略
+/关键词研究|关键词分析|搜索意图|\bkeyword\b/ => 关键词策略
+/技术SEO|结构化数据|\bSchema\b|网站架构/ => 技术 SEO
+
+[Google Ads]
+/\bGoogle\s?Ads\b|谷歌广告|\bAdWords\b|竞价广告/ => Google Ads
+/\bPPC\b|点击付费|竞价排名|付费搜索/ => PPC 竞价
+/广告投放|广告优化|质量得分|\bQuality Score\b/ => 广告优化
+/\bPerformance Max\b|\bP-Max\b|效果最大化/ => Performance Max
+/购物广告|\bShopping Ads\b|\bPMax\b|\bGoogle Merchant/ => 购物广告
+/广告文案|广告创意|\bAd Copy\b|响应式广告|\bRSA\b/ => 广告创意
+/转化跟踪|转化率|\bConversion\b|归因模型/ => 转化优化
+
+[Google 算法更新]
+/算法更新|核心更新|\bCore Update\b|垃圾更新|\bSpam Update\b/ => 谷歌算法更新
+/\bHelpful Content\b|有用内容|\bHCU\b|产品评价更新/ => 内容更新
+/链接垃圾|\bLink Spam\b|惩罚|手动操作/ => 谷歌处罚
+
+[数字营销工具]
+/\bAhrefs\b|\bSemrush\b|\bMoz\b|\bScreaming Frog\b|\bSearch Console\b/ => SEO 工具
+/\bGoogle Analytics\b|\bGA4\b|谷歌分析/ => 数据分析
+/\bGoogle Tag Manager\b|\bGTM\b|跟踪代码/ => 跟踪管理
+/\bLooker Studio\b|\bData Studio\b|数据可视化/ => 数据报表
+
+[内容营销]
+/内容营销|内容策略|文案写作|\bContent Marketing\b/ => 内容营销
+/\bAI\s?写作|AI\s?内容|人工智能.*内容|自动生成.*文章/ => AI 内容创作
+/博客优化|着陆页|\bLanding Page\b|转化文案/ => 着陆页优化
+
+[独立站出海]
+/跨境电商|独立站|外贸|出海/ => 跨境电商
+/\bShopify\b|\bWooCommerce\b|独立站建站/ => 建站平台
+/多语言.*SEO|国际化.*SEO|\bHreflang\b|本地化/ => 国际化 SEO
